@@ -1,0 +1,28 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "asynchronous functions study",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challengue": "node src/callback/challengue.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santechx1/async.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "santech <santiagogf11@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santechx1/async/issues"
+  },
+  "homepage": "https://github.com/santechx1/async#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
