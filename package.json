@@ -4,8 +4,12 @@
   "description": "asynchronous functions study",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callback/index.js",
-    "callback:challengue": "node src/callback/challengue.js"
+    "callbacks": "node src/callbacks/index.js",
+    "callbacks:challengue": "node src/callbacks/challengue.js",
+    "promises": "node src/promises/index.js",
+    "promises:challengue": "node src/promises/challengue.js",
+    "asyncawait": "node src/asyncawait/index.js",
+    "asyncawait:challengue": "node src/asyncawait/challengue.js"
   },
   "repository": {
     "type": "git",
