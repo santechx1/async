@@ -1,2 +1,2 @@
-# async
+# Async
 Asynchronous functions in JS
